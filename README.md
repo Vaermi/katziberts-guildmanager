@@ -1,0 +1,2 @@
+# katziberts-guildmanager
+Gildenaddon
